@@ -1,5 +1,5 @@
+![Logo](https://github.com/MoodyMelon/UTGolestan/blob/main/Icons/golestan-icon.png)
 # UTGolestan
- 
 <!-- ## _The Last Markdown Editor, Ever_
 
 [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
@@ -24,6 +24,11 @@ AngularJS-powered HTML5 Markdown editor.
 - Export documents as Markdown, HTML and PDF
  -->
  
+
+[![Download App](https://github.com/MoodyMelon/UTGolestan/blob/main/Icons/download-apk-icon.png)](https://github.com/MoodyMelon/UTGolestan/blob/main/Golestan.apk)
+
+
+
 ![SC1](https://github.com/MoodyMelon/UTGolestan/blob/main/Screenshots/Phone%20Screenshot%2001.png)
 ![SC1](https://github.com/MoodyMelon/UTGolestan/blob/main/Screenshots/Phone%20Screenshot%2002.png)
 ![SC1](https://github.com/MoodyMelon/UTGolestan/blob/main/Screenshots/Phone%20Screenshot%2003.png)
