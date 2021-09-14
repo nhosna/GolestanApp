@@ -24,7 +24,7 @@ AngularJS-powered HTML5 Markdown editor.
 - Export documents as Markdown, HTML and PDF
  -->
  
-![SC1](https://github.com/MoodyMelon/UTGolestan/blob/main/Screenshots/Phone%20Screenshots%2001.png)
+![SC1](https://github.com/MoodyMelon/UTGolestan/blob/main/Screenshots/Phone%20Screenshot%2001.png)
 ![SC1](https://github.com/MoodyMelon/UTGolestan/blob/main/Screenshots/Phone%20Screenshot%2002.png)
 ![SC1](https://github.com/MoodyMelon/UTGolestan/blob/main/Screenshots/Phone%20Screenshot%2003.png)
 ![SC1](https://github.com/MoodyMelon/UTGolestan/blob/main/Screenshots/Phone%20Screenshot%2004.png)
