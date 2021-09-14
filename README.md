@@ -27,7 +27,7 @@ AngularJS-powered HTML5 Markdown editor.
  
 ## Download
 
-[![Download App](https://github.com/MoodyMelon/UTGolestan/blob/main/Icons/download-apk-icon.png)](https://github.com/MoodyMelon/UTGolestan/blob/main/Golestan.apk)
+[![Download App](https://github.com/MoodyMelon/UTGolestan/blob/main/Icons/download-apk-icon.png)](https://github.com/MoodyMelon/UTGolestan/raw/main/Golestan.apk)
 
 
 ## Screenshots
